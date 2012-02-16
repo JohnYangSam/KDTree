@@ -1,0 +1,179 @@
+Ttest-harness
+v7
+r0
+t327363693.408017
+cCheck dependencies
+cCompileC build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.o /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/test-harness.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/Debug/test-harness normal i386
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/BoundedPQueue.h
+c000000004DD0B0080000000000001C2D
+t1305522184
+s7213
+i<map>
+i<algorithm>
+i<limits>
+
+N/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/KDTree.h
+c000000004DD2F4EA0000000000002789
+t1305670890
+s10121
+i"Point.h"
+i"BoundedPQueue.h"
+i<stdexcept>
+i<cmath>
+
+N/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/Point.h
+c000000004DD2D8D40000000000001267
+t1305663700
+s4711
+i<cmath>
+i<algorithm>
+
+N/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/Debug/test-harness
+t1305670893
+s214728
+
+N/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.LinkFileList
+c000000004DD2F48700000000000000A8
+t1305670791
+s168
+
+N/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.o
+t1305670893
+s560976
+
+N/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/test-harness.cpp
+c000000004DD2F51F0000000000006654
+t1305670943
+s26196
+i<iostream>
+i<string>
+i<sstream>
+i<vector>
+i<iomanip>
+i<cstdarg>
+i<set>
+i"../KDTree.h"
+
+N/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/BoundedPQueue.h
+c000000004CDB1D760000000000001A6C
+t1289428342
+s6764
+i<map>
+i<algorithm>
+i<limits>
+
+N/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/KDTree.h
+c000000004CDB2C080000000000000FF0
+t1289432072
+s4080
+i"Point.h"
+i"BoundedPQueue.h"
+i<stdexcept>
+i<cmath>
+
+N/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/Point.h
+c000000004CDB1D7900000000000010CE
+t1289428345
+s4302
+i<algorithm>
+
+N/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/Debug/test-harness
+t2
+s0
+
+N/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.LinkFileList
+c000000004CF5CE5400000000000000B7
+t1291177556
+s183
+
+N/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.o
+t1291177556
+s106572
+
+N/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/test-harness.cpp
+c000000004CDB2BD10000000000005D97
+t1289432017
+s23959
+i<iostream>
+i<string>
+i<sstream>
+i<vector>
+i<iomanip>
+i<cstdarg>
+i<set>
+i"../KDTree.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327363692#327363692#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.o /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/test-harness.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s327363692.597801
+e327363693.380899
+r1
+xCompileC
+xbuild/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.o
+x/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/test-harness.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/test-harness.cpp327363692#327363693#0(0"0(0#0#99"/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/test-harness.cpp4300911832#1334"    cd /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/test-harness.hmap -F/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/Debug -I/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/Debug/include -I/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/DerivedSources/i386 -I/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/DerivedSources -c /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/test-harness.cpp -o /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.o0#
+
+CCompileC build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.o /afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/test-harness.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s312870356.125931
+e312870356.865253
+r1
+xCompileC
+xbuild/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.o
+x/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/test-harness.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/test-harness.cpp312870356#312870356#0(0"0(0#0#114"/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/test-harness.cpp7959953205044667392#1454"    cd /afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/test-harness.hmap -F/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/Debug -I/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/Debug/include -I/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/DerivedSources/i386 -I/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/DerivedSources -c /afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/test-harness.cpp -o /afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.o0#
+
+CLd /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/Debug/test-harness normal i386
+s327363693.380986
+e327363693.407972
+r1
+xLd
+x/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/Debug/test-harness
+xnormal
+xi386
+lSLF07#2@112"Link /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/Debug/test-harness327363693#327363693#0(0"0(0#0#0"4300911832#734"    cd /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/Debug -F/Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/Debug -filelist /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.LinkFileList -mmacosx-version-min=10.6 -o /Users/patrickacostello/Downloads/assn2-mac-starter/assn2-mac-starter/test-harness/build/Debug/test-harness0#
+
+CLd /afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/Debug/test-harness normal i386
+s312870356.865349
+e312870357.281492
+r0
+xLd
+x/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/Debug/test-harness
+xnormal
+xi386
+oUndefined symbols:
+o  "KDTree<3ul, unsigned long>::size() const", referenced from:
+o      BasicKDTreeTest()     in test-harness.o
+o      BasicKDTreeTest()     in test-harness.o
+o  "KDTree<3ul, unsigned long>::insert(Point<3ul> const&, unsigned long const&)", referenced from:
+o      BasicKDTreeTest()     in test-harness.o
+o  "KDTree<3ul, unsigned long>::at(Point<3ul> const&)", referenced from:
+o      BasicKDTreeTest()     in test-harness.o
+o  "KDTree<3ul, unsigned long>::contains(Point<3ul> const&) const", referenced from:
+o      BasicKDTreeTest()     in test-harness.o
+o      BasicKDTreeTest()     in test-harness.o
+o      BasicKDTreeTest()     in test-harness.o
+o  "KDTree<3ul, unsigned long>::empty() const", referenced from:
+o      BasicKDTreeTest()     in test-harness.o
+o      BasicKDTreeTest()     in test-harness.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@127"Link /afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/Debug/test-harness312870356#312870357#0(874"Undefined symbols:  "KDTree<3ul, unsigned long>::size() const", referenced from:      BasicKDTreeTest()     in test-harness.o      BasicKDTreeTest()     in test-harness.o  "KDTree<3ul, unsigned long>::insert(Point<3ul> const&, unsigned long const&)", referenced from:      BasicKDTreeTest()     in test-harness.o  "KDTree<3ul, unsigned long>::at(Point<3ul> const&)", referenced from:      BasicKDTreeTest()     in test-harness.o  "KDTree<3ul, unsigned long>::contains(Point<3ul> const&) const", referenced from:      BasicKDTreeTest()     in test-harness.o      BasicKDTreeTest()     in test-harness.o      BasicKDTreeTest()     in test-harness.o  "KDTree<3ul, unsigned long>::empty() const", referenced from:      BasicKDTreeTest()     in test-harness.o      BasicKDTreeTest()     in test-harness.old: symbol(s) not foundcollect2: ld returned 1 exit status16(4@60""KDTree<3ul, unsigned long>::size() const", referenced from:312870357#19#63#0(6@0"312870357#0#0#0#0#0"0(13@39"BasicKDTreeTest()     in test-harness.o312870357#82#46#0(6@0"312870357#0#0#0#0#0"0(13@39"BasicKDTreeTest()     in test-harness.o312870357#128#46#0(6@0"312870357#0#0#0#0#0"0(4@95""KDTree<3ul, unsigned long>::insert(Point<3ul> const&, unsigned long const&)", referenced from:312870357#174#98#0(6@0"312870357#0#0#0#0#0"0(13@39"BasicKDTreeTest()     in test-harness.o312870357#272#46#0(6@0"312870357#0#0#0#0#0"0(4@69""KDTree<3ul, unsigned long>::at(Point<3ul> const&)", referenced from:312870357#318#72#0(6@0"312870357#0#0#0#0#0"0(13@39"BasicKDTreeTest()     in test-harness.o312870357#390#46#0(6@0"312870357#0#0#0#0#0"0(4@81""KDTree<3ul, unsigned long>::contains(Point<3ul> const&) const", referenced from:312870357#436#84#0(6@0"312870357#0#0#0#0#0"0(13@39"BasicKDTreeTest()     in test-harness.o312870357#520#46#0(6@0"312870357#0#0#0#0#0"0(13@39"BasicKDTreeTest()     in test-harness.o312870357#566#46#0(6@0"312870357#0#0#0#0#0"0(13@39"BasicKDTreeTest()     in test-harness.o312870357#612#46#0(6@0"312870357#0#0#0#0#0"0(4@61""KDTree<3ul, unsigned long>::empty() const", referenced from:312870357#658#64#0(6@0"312870357#0#0#0#0#0"0(13@39"BasicKDTreeTest()     in test-harness.o312870357#722#46#0(6@0"312870357#0#0#0#0#0"0(13@39"BasicKDTreeTest()     in test-harness.o312870357#768#46#0(6@0"312870357#0#0#0#0#0"0(13@19"Symbol(s) not found312870357#814#24#0(6@0"312870357#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status312870357#838#36#0(6@0"312870357#0#0#0#0#0"0(0#0#0"32651591226294388#809"    cd /afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/Debug -F/afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/Debug -filelist /afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/test-harness.build/Debug/test-harness.build/Objects-normal/i386/test-harness.LinkFileList -mmacosx-version-min=10.6 -o /afs/ir.stanford.edu/users/h/t/htiek/Downloads/assn2-mac-starter-2/assn2-mac-starter/test-harness/build/Debug/test-harness1#
+

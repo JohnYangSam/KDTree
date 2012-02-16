@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd "`dirname "$0"`"
+cd color-naming && qmake -spec macx-xcode color-naming.pro && cd ..
+cd digit-classifier && qmake -spec macx-xcode digit-classifier.pro && cd ..
+cd map-lookup && qmake -spec macx-xcode map-lookup.pro && cd ..
